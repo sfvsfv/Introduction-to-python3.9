@@ -1,3 +1,3 @@
 # python3.9
-python3.9 document
-python3.9.4文档练习与理解，彻底打好python基础
+参考python3.9官方文档交互式在pycharm下的源代码
+python3.9.4入门教程 
